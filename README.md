@@ -1,5 +1,5 @@
 # Folder-based-Excel-Growth-Analysis
-Folder-based Excel Processor with Growth Rapid growth Analysis openpyxl only
+Folder-based Excel Processor with Growth Rapid growth Analysis openpyxl only O
 폴더 선택 방식으로 변경
 선택된 폴더 내의 모든 엑셀 파일을 자동으로 처리
 각 파일에 대해 성장/급성장 분석을 자동으로 수행
